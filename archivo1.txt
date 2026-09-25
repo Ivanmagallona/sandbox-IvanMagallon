@@ -7,9 +7,17 @@ Se hace un cambio al mismo tiempo que en el segundo archivo
 
 
 
+<<<<<<< Updated upstream
 creación y modificación rama 3 linea 10 
+=======
+>>>>>>> Stashed changes
 
 
 
 
+<<<<<<< Updated upstream
 texto desde archivo1
+=======
+
+texto desde prueba 3
+>>>>>>> Stashed changes
