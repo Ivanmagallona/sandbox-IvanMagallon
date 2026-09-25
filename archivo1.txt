@@ -15,3 +15,6 @@ creación y modificación rama 3 linea 10
 texto desde archivo1
 
 texto desde prueba 3
+
+
+cambio desde terminal

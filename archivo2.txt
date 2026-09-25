@@ -9,3 +9,7 @@ rama 1 linea 8
 
 
 creación y modificación rama 3 linea 10
+
+
+
+cambio desde terminal
