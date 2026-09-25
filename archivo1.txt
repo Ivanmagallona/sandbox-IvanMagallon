@@ -1,3 +1,5 @@
 se genera el primer archivo de acuerdo a la primera instrucción
 
 bla bla
+
+Se hace un cambio al mismo tiempo que en el segundo archivo
